@@ -1,6 +1,6 @@
 # Array Sequences
 
-1.  **[Dynamic Arrays]()**  
+1.  **[Dynamic Arrays](https://github.com/nkuhta/Python-Algorithms/blob/master/01.%20Array%20Sequeneces/Dynamic%20Arrays.ipynb)**  
 &ensp;  Dynamic Array memory allocation
 
 #  References

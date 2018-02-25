@@ -1,6 +1,6 @@
 # Python Data Structures, Algorithms, Interview Preparation
 
-1.  **[Array Sequences]()** - Fundamental Array Algorithms. [[]]() 
+1.  **[Array Sequences](https://github.com/nkuhta/Python-Algorithms/tree/master/01.%20Array%20Sequeneces)** - Dynamic Arrays. 
 
 
 
