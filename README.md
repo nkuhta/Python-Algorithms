@@ -1,8 +1,9 @@
 # Arrays 
 
-1.  **[Array Problems](https://github.com/nkuhta/Python-Algorithms/blob/master/01.%20Array%20Sequeneces/Array%20Problems.ipynb)** - Anagram function, Array Pair Sum  
-2.  **[Dynamic Arrays](https://github.com/nkuhta/Python-Algorithms/blob/master/01.%20Array%20Sequeneces/Dynamic%20Arrays.ipynb)** - Managing list capacity 
-
+**[Array Problems](https://github.com/nkuhta/Python-Algorithms/blob/master/01.%20Array%20Sequeneces/Array%20Problems.ipynb)**  
+&ensp; Anagram function, Array Pair Sum  
+**[Dynamic Arrays](https://github.com/nkuhta/Python-Algorithms/blob/master/01.%20Array%20Sequeneces/Dynamic%20Arrays.ipynb)**   
+&ensp; Managing list capacity
 
 
 
