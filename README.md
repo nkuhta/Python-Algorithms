@@ -14,7 +14,7 @@
 **[Deques](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Deques.ipynb)**
 &ensp;  Combination of Stack and Queue, in a Deque you can add/remove from front or rear as well as basic size/empty functionality.  
 **[Balanced Parenthesis: Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Balanced%20Parenthesis.ipynb)**  
-%ensp;  Given a string of opening and closing brackets write a function that checks if the parenthesis are balanced.  
+&ensp;  Given a string of opening and closing brackets write a function that checks if the parenthesis are balanced.  
 
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
