@@ -12,7 +12,8 @@
 **[Queues](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Queues.ipynb)**  
 &ensp;  Implementing a Queue class with isEmpty, enqueue (add to rear), dequeue (pop from front) and size methods.  
 **[Deques](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Deques.ipynb)**  
-&ensp;  Combination of Stack and Queue, in a Deque you can add/remove from front or rear as well as basic size/empty functionality.  
+&ensp;  Combination of Stack and Queue, in a Deque you can add/remove from front or rear as well as basic size/empty  
+&ensp; functionality.    
 **[Balanced Parenthesis: Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Balanced%20Parenthesis.ipynb)**  
 &ensp;  Given a string of opening and closing brackets write a function that checks if the parenthesis are balanced.  
 
