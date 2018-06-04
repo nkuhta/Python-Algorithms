@@ -8,7 +8,7 @@
 
 #  Stacks, Queues and Dequeues
 **[Stacks]()**  
-&ensp;  Implementing a stack class where you have isEmpty, push, pop, peek, and size methods.  
+&ensp;  Implementing a stack class with isEmpty, push, pop, peek, and size methods.  
 
 
 #  References
