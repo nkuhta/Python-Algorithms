@@ -6,7 +6,7 @@
 **[Dynamic Arrays](https://github.com/nkuhta/Python-Algorithms/blob/master/01.%20Array%20Sequeneces/Dynamic%20Arrays.ipynb)**   
 &ensp; Managing list capacity
 
-#  Stacks, Queues and Dequeues
+#  Stacks, Queues and Deques
 **[Stacks](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Stacks.ipynb)**  
 &ensp;  Implementing a Stack class with isEmpty, push, pop, peek, and size methods.  
 **[Queues](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Queues.ipynb)**  
