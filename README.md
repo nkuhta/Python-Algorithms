@@ -7,7 +7,7 @@
 &ensp; Managing list capacity
 
 #  Stacks, Queues and Dequeues
-**[Stacks]()**  
+**[Stacks](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Stacks.ipynb)**  
 &ensp;  Implementing a stack class with isEmpty, push, pop, peek, and size methods.  
 
 
