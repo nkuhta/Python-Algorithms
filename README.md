@@ -12,7 +12,9 @@
 **[Queues](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Queues.ipynb)**  
 &ensp;  Implementing a Queue class with isEmpty, enqueue (add to rear), dequeue (pop from front) and size methods.  
 **[Deques]()**
-&ensp;  
+&ensp;  Combination of Stack and Queue, in a Deque you can add/remove from front or rear as well as basic size/empty functionality.  
+
+
 
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
