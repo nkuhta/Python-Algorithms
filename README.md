@@ -16,6 +16,8 @@
 &ensp; functionality.    
 **[Balanced Parenthesis: Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Balanced%20Parenthesis.ipynb)**  
 &ensp;  Given a string of opening and closing brackets write a function that checks if the parenthesis are balanced.  
+**[Queue - Using Two Stacks:  Problem]()**  
+&ensp;  Using two stacks to make a Queue function, specifically the enqueue and dequeue routines.  
 
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
