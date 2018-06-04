@@ -11,7 +11,8 @@
 &ensp;  Implementing a Stack class with isEmpty, push, pop, peek, and size methods.  
 **[Queues](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Queues.ipynb)**  
 &ensp;  Implementing a Queue class with isEmpty, enqueue (add to rear), dequeue (pop from front) and size methods.  
-
+**[Deques]()**
+&ensp;  
 
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
