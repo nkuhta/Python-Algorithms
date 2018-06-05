@@ -26,7 +26,7 @@
 &ensp;  Write a function to check if a given linked list is cycled.  
 **[Linked List Reversal:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/03.%20Linked%20Lists/Linked%20List%20Reversal.ipynb)**  
 &ensp;  Write a function that reverses the pointer direction and therefore the pointer direction of a linked list (in place). 
-**[Nth to the Last Node:  Problem]()**  
+**[Nth to the Last Node:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/03.%20Linked%20Lists/Nth%20to%20Last%20Node%20.ipynb)**  
 &ensp;  Find the node value N spaces away from the end of a linked list.  
 
 #  References
