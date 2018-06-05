@@ -24,6 +24,8 @@
 &ensp;  Singly and Doubly Linked lists that contain values and point to next/previous linked list node values.  
 **[Cycle Check:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/03.%20Linked%20Lists/Singly%20Linked%20List%20Cycle%20Check.ipynb)**  
 &ensp;  Write a function to check if a given linked list is cycled.  
+**[Linked List Reversal:  Problem]()**  
+&ensp;  Write a function that reverses the pointer direction and therefore the pointer direction of a linked list (in place). 
 
 
 #  References
