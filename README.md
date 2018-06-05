@@ -20,9 +20,9 @@
 &ensp;  Using two stacks to make a Queue function, specifically the enqueue and dequeue routines.  
 
 #  Linked Lists  
-**[Linked Lists]()**  
+**[Linked Lists](https://github.com/nkuhta/Python-Algorithms/blob/master/03.%20Linked%20Lists/Linked%20List.ipynb)**  
 &ensp;  Singly and Doubly Linked lists that contain values and point to next/previous linked list node values.  
-**[Cycle Check:  Problem]()**  
+**[Cycle Check:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/03.%20Linked%20Lists/Singly%20Linked%20List%20Cycle%20Check.ipynb)**  
 &ensp;  Write a function to check if a given linked list is cycled.  
 
 
