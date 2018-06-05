@@ -19,6 +19,12 @@
 **[Queue - Using Two Stacks:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/02.%20Stacks%2C%20Queues%20and%20Decks/Queue%20-%20Using%20Two%20Stacks.ipynb)**  
 &ensp;  Using two stacks to make a Queue function, specifically the enqueue and dequeue routines.  
 
+#  Linked Lists  
+**[Linked Lists]()**  
+&ensp;  Singly and Doubly Linked lists that contain values and point to next/previous linked list node values.  
+**[Cycle Check:  Problem]()**  
+&ensp;  Write a function to check if a given linked list is cycled.  
+
 
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
