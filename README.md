@@ -38,7 +38,8 @@
 &ensp;  Create function that prints list of all possible input string   
 **[Fibonacci Sequence:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/Fibonacci.ipynb)**  
 &ensp;  Fibonacci sequence recursive function. 
-
+[Coin Change:  Problem]()**  
+&ensp;  Given a total and a list of coin change values, find the minimum amount of coins needed to add to the total. 
 
 
 #  References
