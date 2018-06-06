@@ -36,7 +36,7 @@
 &ensp;  Reverse the order of a given input string.  
 **[String Permutation:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/String%20Permutation.ipynb)**  
 &ensp;  Create function that prints list of all possible input string   
-**[Fibonacci Sequence:  Problem]()**  
+**[Fibonacci Sequence:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/Fibonacci.ipynb)**  
 &ensp;  Fibonacci sequence recursive function. 
 
 
