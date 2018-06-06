@@ -34,7 +34,7 @@
 &ensp;  Recusive factorial, cummulative sum, sum all digits and word split recursion functions.  
 **[Reverse a String:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/Reverse.ipynb)**  
 &ensp;  Reverse the order of a given input string.  
-**[String Permutation:  Problem]()**  
+**[String Permutation:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/String%20Permutation.ipynb)**  
 &ensp;  Create function that prints list of all possible input string   
 
 
