@@ -29,6 +29,12 @@
 **[Nth to the Last Node:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/03.%20Linked%20Lists/Nth%20to%20Last%20Node%20.ipynb)**  
 &ensp;  Find the node value N spaces away from the end of a linked list.  
 
+# Recursion
+**[Recursion]()**  
+&ensp;  Recusive factorial, cummulative sum, sum all digits and word split recursion functions.  
+
+
+
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
 https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/
