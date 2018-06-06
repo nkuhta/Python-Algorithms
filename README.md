@@ -30,9 +30,9 @@
 &ensp;  Find the node value N spaces away from the end of a linked list.  
 
 # Recursion
-**[Recursion]()**  
+**[Recursion](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/Recursion.ipynb)**  
 &ensp;  Recusive factorial, cummulative sum, sum all digits and word split recursion functions.  
-**[Reverse a String:  Problem]()**  
+**[Reverse a String:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/Reverse.ipynb)**  
 &ensp;  Reverse the order of a given input string.  
 
 
