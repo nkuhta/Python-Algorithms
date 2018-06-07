@@ -41,6 +41,10 @@
 **[Coin Change:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/Coin%20Change%20Problem.ipynb)**  
 &ensp;  Given a total and a list of coin change values, find the minimum amount of coins needed to add to the total. 
 
+# Trees
+**[Trees]()**  
+&ensp;  
+
 
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
