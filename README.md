@@ -46,6 +46,8 @@
 &ensp;  Tree class, list of lists, traversing trees.  
 **[Heaps](https://github.com/nkuhta/Python-Algorithms/blob/master/05.%20Trees/Heaps.ipynb)**  
 &ensp;  Priority queues wiht binary heaps, binary heap implementation.  
+**[Binary Search Trees]()**  
+%ensp;  BST Class implementation. 
 
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
