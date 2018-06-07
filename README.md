@@ -43,7 +43,7 @@
 
 # Trees
 **[Trees]()**  
-&ensp;  
+&ensp;  Tree class, list of lists, traversing trees.  
 
 
 #  References
