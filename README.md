@@ -42,9 +42,10 @@
 &ensp;  Given a total and a list of coin change values, find the minimum amount of coins needed to add to the total. 
 
 # Trees
-**[Trees]()**  
+**[Trees](https://github.com/nkuhta/Python-Algorithms/blob/master/05.%20Trees/Trees.ipynb)**  
 &ensp;  Tree class, list of lists, traversing trees.  
-
+**[Heaps](https://github.com/nkuhta/Python-Algorithms/blob/master/05.%20Trees/Heaps.ipynb)**  
+&ensp;  Priority queues wiht binary heaps, binary heap implementation.  
 
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
