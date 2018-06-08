@@ -54,6 +54,8 @@
 &ensp;  Search for items in sorted and unsorted lists.  Can by done with python "in" function.  
 **[Binary Search](https://github.com/nkuhta/Python-Algorithms/blob/master/06.%20Searching%20and%20Sorting/Binary%20Search%20.ipynb)**  
 &ensp;  Iterative and Recursive Binary Search.  
+**[Hashing]()**  
+&ensp;  Hash Table Class implementation.  
 
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
