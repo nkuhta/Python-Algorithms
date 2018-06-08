@@ -47,12 +47,12 @@
 **[Heaps](https://github.com/nkuhta/Python-Algorithms/blob/master/05.%20Trees/Heaps.ipynb)**  
 &ensp;  Priority queues wiht binary heaps, binary heap implementation.  
 **[Binary Search Trees]()**  
-%ensp;  BST Class implementation. 
+&ensp;  BST Class implementation. 
 
 # Searching and Sorting
-**[Sequential Search]()** 
+**[Sequential Search](https://github.com/nkuhta/Python-Algorithms/blob/master/06.%20Searching%20and%20Sorting/Sequential%20Search.ipynb)** 
 &ensp;  Search for items in sorted and unsorted lists.  Can by done with python "in" function. 
-[Binary Search]()**  
+[Binary Search](https://github.com/nkuhta/Python-Algorithms/blob/master/06.%20Searching%20and%20Sorting/Binary%20Search%20.ipynb)**  
 &ensp;  Iterative and Recursive Binary Search.  
 
 #  References
