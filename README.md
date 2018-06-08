@@ -49,6 +49,11 @@
 **[Binary Search Trees]()**  
 %ensp;  BST Class implementation. 
 
+# Searching and Sorting
+**[Sequential Search]()** 
+&ensp;  Search for items in sorted and unsorted lists.  Can by done with python "in" function. 
+
+
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
 https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/
