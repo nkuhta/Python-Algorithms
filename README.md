@@ -52,7 +52,8 @@
 # Searching and Sorting
 **[Sequential Search]()** 
 &ensp;  Search for items in sorted and unsorted lists.  Can by done with python "in" function. 
-
+[Binary Search]()**  
+&ensp;  Iterative and Recursive Binary Search.  
 
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
