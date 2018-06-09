@@ -56,7 +56,7 @@
 &ensp;  Iterative and Recursive Binary Search.  
 **[Hashing](https://github.com/nkuhta/Python-Algorithms/blob/master/06.%20Searching%20and%20Sorting/Hashing.ipynb)**  
 &ensp;  Hash Table Class implementation.  Slot Key and Data entries.  Put hashfunction, rehash, and get methods.  
-**[Bubble Sort](https://github.com/nkuhta/Python-Algorithms/blob/master/06.%20Searching%20and%20Sorting/Bubble%20Sort.ipynb**  
+**[Bubble Sort](https://github.com/nkuhta/Python-Algorithms/blob/master/06.%20Searching%20and%20Sorting/Bubble%20Sort.ipynb)**  
 &ensp;  Bubble Sort implementation.  Compare neighboring elements and exchange if necessary.  
 
 
