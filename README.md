@@ -55,7 +55,7 @@
 **[Binary Search](https://github.com/nkuhta/Python-Algorithms/blob/master/06.%20Searching%20and%20Sorting/Binary%20Search%20.ipynb)**  
 &ensp;  Iterative and Recursive Binary Search.  
 **[Hashing](https://github.com/nkuhta/Python-Algorithms/blob/master/06.%20Searching%20and%20Sorting/Hashing.ipynb)**  
-&ensp;  Hash Table Class implementation.  
+&ensp;  Hash Table Class implementation.  Slot Key and Data entries.  Put hashfunction, rehash, and get methods.  
 
 #  References
 1.  **Python for Data Structures, Algorithms, and Interviews!** - Udemy  
