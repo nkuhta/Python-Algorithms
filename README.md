@@ -63,7 +63,8 @@
 **[Insertion Sort](https://github.com/nkuhta/Python-Algorithms/blob/master/06.%20Searching%20and%20Sorting/Insertion%20Sort.ipynb)**  
 &ensp;  Insertion sort algorithm.  Traverse an array creating a growing sorted sublist where values are inserted into that sublist in  
 &ensp; order.  
-
+**[Shell Sort]()**  
+&ensp;  Shell sort implementation, like an insertion sort with a set of sublists that have an decreasing gap size.  
 
 
 
