@@ -60,6 +60,8 @@
 &ensp;  Bubble Sort implementation.  Compare neighboring elements and exchange if necessary.  
 **[Selection Sort](https://github.com/nkuhta/Python-Algorithms/blob/master/06.%20Searching%20and%20Sorting/Selection%20Sort.ipynb)**  
 &ensp;  Selection Sort implementation.  Each pass look for the largest element and place it at end of array after pass is complete.  
+**[Insertion Sort]()** 
+&ensp;  Insertion sort algorithm.  Traverse an array creating a growing sorted sublist where values are inserted into that sublist in order.  
 
 
 
