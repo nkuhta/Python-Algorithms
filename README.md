@@ -71,7 +71,7 @@
 &ensp;  Quick sort recursive implementation.  
 
 # Graph Algorithms
-**[Adjacency Matrix and List]()**  
+**[Adjacency Matrix and List](https://github.com/nkuhta/Python-Algorithms/blob/master/07.%20Graph%20Algorithms/Adjacency%20Matrix%20and%20List.ipynb)**  
 &ensp;  Building Adjacency Matrix and Lists to store vertices, connections and weights.  
 
 
