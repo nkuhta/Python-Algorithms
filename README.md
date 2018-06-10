@@ -78,7 +78,7 @@
 **[Bridge Crossing Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/08.%20Riddles/Bridge%20Crossing.ipynb)**  
 &ensp;  Given a group of people with different walking speeds, and one flashlight, find minimum time to cross bridge given  
 &ensp; constraints.  
-**[Coins and a Scale]()**  
+**[Coins and a Scale](https://github.com/nkuhta/Python-Algorithms/blob/master/08.%20Riddles/Coins%20and%20a%20Scale.ipynb)**  
 &ensp;  Given eight coins, where one is heavier, find the minimum number of weighings with 2 scales to find unique coin.  
 
 
