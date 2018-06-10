@@ -86,7 +86,8 @@
 &ensp;  After toggling the nth spaced lockers open/closed on the nth pass how many remain open given n = 100.  
 **[Jugs of Water](https://github.com/nkuhta/Python-Algorithms/blob/master/08.%20Riddles/Jugs%20of%20Water.ipynb)**  
 &ensp;  With no meauring cups other than a 3 and 5 gallon bucket, measure out 4 gallons of water.  
-
+**[Light Switches]()**  
+&ensp;  Figure out which 3 light switches go to which light bulb in another room by only entering that room once.  
 
 
 
