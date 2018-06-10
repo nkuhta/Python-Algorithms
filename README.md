@@ -80,7 +80,8 @@
 &ensp; constraints.  
 **[Coins and a Scale](https://github.com/nkuhta/Python-Algorithms/blob/master/08.%20Riddles/Coins%20and%20a%20Scale.ipynb)**  
 &ensp;  Given eight coins, where one is heavier, find the minimum number of weighings with 2 scales to find unique coin.  
-
+**[Egg Drop]()**  
+&ensp;  Given 2 eggs and a 100 floor tower find the minimum amount of drops to see what floor the eggs will break.  
 
 
 
