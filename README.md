@@ -71,8 +71,8 @@
 &ensp;  Quick sort recursive implementation.  
 
 # Graph Algorithms
-**[]()**  
-&ensp;  
+**[Adjacency Matrix and List]()**  
+&ensp;  Building Adjacency Matrix and Lists to store vertices, connections and weights.  
 
 
 
