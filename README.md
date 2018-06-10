@@ -67,6 +67,9 @@
 &ensp;  Shell sort implementation, like an insertion sort with a set of sublists that have an decreasing gap size.  
 **[Merge Sort](https://github.com/nkuhta/Python-Algorithms/blob/master/06.%20Searching%20and%20Sorting/Merge%20Sort.ipynb)**  
 &ensp;  Divide and Conquer recursive implementation.  
+**[Quick Sort]()**  
+&ensp;  Quick sort recursive implementation.  
+
 
 
 
