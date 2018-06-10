@@ -74,6 +74,10 @@
 **[Adjacency Matrix and List](https://github.com/nkuhta/Python-Algorithms/blob/master/07.%20Graph%20Algorithms/Adjacency%20Matrix%20and%20List.ipynb)**  
 &ensp;  Building Adjacency Matrix and Lists to store vertices, connections and weights.  
 
+# Riddles and Brain Teasers
+**[Bridge Crossing Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/08.%20Riddles/Bridge%20Crossing.ipynb)**  
+&ensp;  Given a group of people with different walking speeds, and one flashlight, find minimum time to cross bridge given constraints.  
+
 
 
 
