@@ -84,6 +84,8 @@
 &ensp;  Given 2 eggs and a 100 floor tower find the minimum amount of drops to see what floor the eggs will break.  
 **[Hallway Lockers](https://github.com/nkuhta/Python-Algorithms/blob/master/08.%20Riddles/Hallway%20Lockers.ipynb)**  
 &ensp;  After toggling the nth spaced lockers open/closed on the nth pass how many remain open given n = 100.  
+**[Jugs of Water]()**  
+&ensp;  With no meauring cups other than a 3 and 5 gallon bucket, measure out 4 gallons of water.  
 
 
 
