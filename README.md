@@ -88,7 +88,7 @@
 &ensp;  With no meauring cups other than a 3 and 5 gallon bucket, measure out 4 gallons of water.  
 **[Light Switches](https://github.com/nkuhta/Python-Algorithms/blob/master/08.%20Riddles/Light%20Switches.ipynb)**  
 &ensp;  Figure out which 3 light switches go to which light bulb in another room by only entering that room once.  
-**[Burning Ropes]()**  
+**[Burning Ropes](https://github.com/nkuhta/Python-Algorithms/blob/master/08.%20Riddles/Ropes%20Burning.ipynb)**  
 &ensp;  Take two different ropes that each take one hour to burn and figure out how to measure 45 minutes. 
 
 
