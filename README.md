@@ -30,15 +30,15 @@
 &ensp;  Find the node value N spaces away from the end of a linked list.  
 
 # Recursion
-**[Recursion](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/Recursion.ipynb)**  
+**[Recursion](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20Recursion/Recursion.ipynb)**  
 &ensp;  Recusive factorial, cummulative sum, sum all digits and word split recursion functions.  
-**[Reverse a String:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/Reverse.ipynb)**  
+**[Reverse a String:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20Recursion/Reverse.ipynb)**  
 &ensp;  Reverse the order of a given input string.  
-**[String Permutation:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/String%20Permutation.ipynb)**  
+**[String Permutation:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20Recursion/String%20Permutation.ipynb)**  
 &ensp;  Create function that prints list of all possible input string   
-**[Fibonacci Sequence:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/Fibonacci.ipynb)**  
+**[Fibonacci Sequence:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20Recursion/Fibonacci.ipynb)**  
 &ensp;  Fibonacci sequence recursive function.  
-**[Coin Change:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20%20Recursion/Coin%20Change%20Problem.ipynb)**  
+**[Coin Change:  Problem](https://github.com/nkuhta/Python-Algorithms/blob/master/04.%20Recursion/Coin%20Change%20Problem.ipynb)**  
 &ensp;  Given a total and a list of coin change values, find the minimum amount of coins needed to add to the total. 
 
 # Trees
